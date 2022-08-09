@@ -1,0 +1,18 @@
+[
+	{
+		"Id": 1,
+		"Name": "Bench Press",
+		"Description": "Horizontal bench, barbell above lower chest. Arms go down to 90° on elbow, straight wrists.",
+		"Repetition": "3 x 5-7",
+		"Image": "https://github.com/Dofkinis/files/blob/d41030e387a20d676877da8cfb0c2d2b7c6626aa/weight_lifting.png"
+	},
+	{
+		"Id": 2,
+		"Name": "Seated Dumbbell Shoulder Press",
+		"Description": "90° bench, head and shoulders pressed against the bench, hands a little in front of the body. Arms go down to 90° on elbow.",
+		"Repetition": "3 x 6-8",
+		"Image: "https://github.com/Dofkinis/files/blob/d41030e387a20d676877da8cfb0c2d2b7c6626aa/man_lifting_weights.png"
+	}
+]
+		
+	
