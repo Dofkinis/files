@@ -4,7 +4,7 @@
 		"Name": "Bench Press",
 		"Description": "Horizontal bench, barbell above lower chest. Arms go down to 90° on elbow, straight wrists.",
 		"Repetition": "3 x 5-7",
-		"Image": "https://github.com/Dofkinis/files/blob/main/weight_lifting.png"
+		"Image": "https://raw.githubusercontent.com/Dofkinis/files/main/weight_lifting.png"
 	},
 	{
 		"Id": 2,
