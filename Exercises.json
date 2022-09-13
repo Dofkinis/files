@@ -12,6 +12,48 @@
 		"Description": "90° bench, head and shoulders pressed against the bench, hands a little in front of the body. Arms go down to 90° on elbow.",
 		"Repetition": "3 x 6-8",
 		"Image": "https://raw.githubusercontent.com/Dofkinis/files/main/man_lifting_weights.png"
+	},
+	{
+		"Id": 1,
+		"Name": "Bench Press",
+		"Description": "Horizontal bench, barbell above lower chest. Arms go down to 90° on elbow, straight wrists.",
+		"Repetition": "3 x 5-7",
+		"Image": "https://raw.githubusercontent.com/Dofkinis/files/main/weight_lifting.png"
+	},
+	{
+		"Id": 2,
+		"Name": "Seated Dumbbell Shoulder Press",
+		"Description": "90° bench, head and shoulders pressed against the bench, hands a little in front of the body. Arms go down to 90° on elbow.",
+		"Repetition": "3 x 6-8",
+		"Image": "https://raw.githubusercontent.com/Dofkinis/files/main/man_lifting_weights.png"
+	},
+	{
+		"Id": 1,
+		"Name": "Bench Press",
+		"Description": "Horizontal bench, barbell above lower chest. Arms go down to 90° on elbow, straight wrists.",
+		"Repetition": "3 x 5-7",
+		"Image": "https://raw.githubusercontent.com/Dofkinis/files/main/weight_lifting.png"
+	},
+	{
+		"Id": 2,
+		"Name": "Seated Dumbbell Shoulder Press",
+		"Description": "90° bench, head and shoulders pressed against the bench, hands a little in front of the body. Arms go down to 90° on elbow.",
+		"Repetition": "3 x 6-8",
+		"Image": "https://raw.githubusercontent.com/Dofkinis/files/main/man_lifting_weights.png"
+	},
+	{
+		"Id": 1,
+		"Name": "Bench Press",
+		"Description": "Horizontal bench, barbell above lower chest. Arms go down to 90° on elbow, straight wrists.",
+		"Repetition": "3 x 5-7",
+		"Image": "https://raw.githubusercontent.com/Dofkinis/files/main/weight_lifting.png"
+	},
+	{
+		"Id": 2,
+		"Name": "Seated Dumbbell Shoulder Press",
+		"Description": "90° bench, head and shoulders pressed against the bench, hands a little in front of the body. Arms go down to 90° on elbow.",
+		"Repetition": "3 x 6-8",
+		"Image": "https://raw.githubusercontent.com/Dofkinis/files/main/man_lifting_weights.png"
 	}
 ]
 		
